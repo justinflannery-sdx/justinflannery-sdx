@@ -11,20 +11,9 @@ I'm a Senior Machine Learning Engineer at [SmarterDx](https://github.com/smarter
 Python developer with a focus on Machine Learning, Data Science, Data Engineering,
 and Platform Operations.
 
-
-
-<style>
-    .contact-list {
-        font-size: 1.3em;
-        list-style-type: disc;
-        margin-left: 10px;
-    }
-</style>
-<ul class="contact-list">
-    <li><a href="https://cdi-ai.slack.com/team/U07JKD1QJ2W">Give Me a Shout on SmarterDx Slack</a></li>
-    <li><a href="https://www.linkedin.com/in/justinflannery/">Check Out My LinkedIn</a></li>
-    <li><a href="https://github.com/juftin">See My Open Source Contributions</a></li>
-</ul>
+- [Give Me a Shout on SmarterDx Slack](https://cdi-ai.slack.com/team/U07JKD1QJ2W)
+- [Check Out My LinkedIn](https://www.linkedin.com/in/justinflannery/)
+- [See My Open Source Contributions](https://github.com/juftin)
 
 > Now is better than never.
 >
