@@ -8,13 +8,11 @@
 ## Hey, I'm Justin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 I'm a Senior Machine Learning Engineer at [SmarterDx](https://github.com/smarterdx). I'm a
-Python developer with a focus on Machine Learning, Data Science, Data Engineering, 
+Python developer with a focus on Machine Learning, Data Science, Data Engineering,
 and Platform Operations.
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Information</title>
+
+<body>
     <style>
         .contact-list {
             font-size: 1.3em;
@@ -22,8 +20,6 @@ and Platform Operations.
             margin-left: 10px;
         }
     </style>
-</head>
-<body>
     <ul class="contact-list">
         <li><a href="https://cdi-ai.slack.com/team/U07JKD1QJ2W">Give Me a Shout on SmarterDx Slack</a></li>
         <li><a href="https://www.linkedin.com/in/justinflannery/">Check Out My LinkedIn</a></li>
